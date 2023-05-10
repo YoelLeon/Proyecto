@@ -2,7 +2,6 @@ public class HolaMundo1 {
 
    
     public static void main(String[] args) {
-	
 	System.out.println("Hola mundo");
         Scanner scanner= new Scanner(System.in);
         System.out.print("Nombre: ");
